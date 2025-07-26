@@ -1,0 +1,8 @@
+/build/
+/dist/
+/.venv/
+/.idea/
+.idea/*
+.idea
+.env
+/config/
